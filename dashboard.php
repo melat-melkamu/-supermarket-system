@@ -229,18 +229,6 @@ if($result && $result->num_rows > 0){
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="editProductFormDiv" class="editForm">
 <h4>Edit Product</h4>
 <form id="editProductForm" action="backend/edit_product.php" method="post">
@@ -446,4 +434,4 @@ function cancelEdit(formDivId){
 </script>
 
 </body>
-</html> i want to give me the i will pasty it give me at it is please
+</html> 
