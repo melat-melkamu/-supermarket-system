@@ -1,12 +1,13 @@
 # Supermarket Management System 🛒
 
-A web-based application designed to manage supermarket operations including inventory management, sales tracking, and user authentication.
+A web-based application to manage supermarket inventory and sales.
 
-## 🚀 Features
-* **Dashboard:** Overview of total sales and products.
-* **Product Management:** Add, update, and remove supermarket items.
-* **User Authentication:** Secure login for staff/admins.
-* **Sales System:** Manage customer purchases and inventory levels.
+## 📸 Project Preview
+### Login Page
+![Login Page](login.png)
+
+### Admin Dashboard
+![Dashboard](dashboard.png)
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript
@@ -14,10 +15,6 @@ A web-based application designed to manage supermarket operations including inve
 * **Database:** MySQL (WAMP Server)
 
 ## ⚙️ Installation
-1. Move the project to `C:\wamp64\www\`.
-2. Create a database named `supermarket_db` in phpMyAdmin.
-3. Configure your database connection in `config.php`.
-4. Open `http://localhost/supermarket_system` in your browser.
-
-## 🔒 Privacy
-The database configuration files are hidden for security.
+1. Move project to `C:\wamp64\www\`.
+2. Import `supermarket_db.sql` in phpMyAdmin.
+3. Open `http://localhost/supermarket_system` in your browser.
